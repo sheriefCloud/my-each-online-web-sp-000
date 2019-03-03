@@ -5,4 +5,4 @@ def my_each(element) # put argument(s) here
   end
 end
 
-my_each {puts element}
+#my_each {puts element}
